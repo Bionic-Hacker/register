@@ -1,0 +1,21 @@
+{
+  "owner": {
+    "username": "Bionic-Hacker"
+  },
+  "records": {
+    "CAA": [
+      {
+        "flags": 0,
+        "tag": "issue",
+        "value": "amazon.com"
+      },
+      {
+        "flags": 0,
+        "tag": "issuewild",
+        "value": ";"
+      }
+    ],
+    "TXT": "SentinelEdge, an application and API security platform: https://github.com/Bionic-Hacker/Sen
+tinel-Edge"
+  }
+}
